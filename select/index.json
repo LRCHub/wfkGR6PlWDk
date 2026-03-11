@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Rumors",
+  "base_artist": "Jake Miller",
+  "createdAt": "2026-03-11T09:57:49.916206Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rumors",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/01_Rumors_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rumors (Produced By C-Sick)",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/02_Rumors_(Produced_By_C-Sick)_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rumors",
+      "artist": "Joywave",
+      "has_synced": true,
+      "path": "select/03_Rumors_Joywave.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rumors",
+      "artist": "Paola&Chiara",
+      "has_synced": true,
+      "path": "select/04_Rumors_Paola&Chiara.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rumors Of My Demise Have Been Greatly Exaggerated",
+      "artist": "Rise Against",
+      "has_synced": true,
+      "path": "select/05_Rumors_Of_My_Demise_Have_Been_Greatly_Exaggerated_Rise_Against.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rumors",
+      "artist": "Sepultura",
+      "has_synced": false,
+      "path": "select/06_Rumors_Sepultura.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rumors",
+      "artist": "Ava Max",
+      "has_synced": true,
+      "path": "select/07_Rumors_Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rumors",
+      "artist": "Neffex",
+      "has_synced": true,
+      "path": "select/08_Rumors_Neffex.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rumors (Explicit)",
+      "artist": "NEFFEX",
+      "has_synced": true,
+      "path": "select/09_Rumors_(Explicit)_NEFFEX.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rumors",
+      "artist": "Timex Social Club",
+      "has_synced": true,
+      "path": "select/10_Rumors_Timex_Social_Club.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rumors",
+      "artist": "Lindsay Lohan",
+      "has_synced": true,
+      "path": "select/11_Rumors_Lindsay_Lohan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rumors",
+      "artist": "The Devil Wears Prada",
+      "has_synced": true,
+      "path": "select/12_Rumors_The_Devil_Wears_Prada.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rumors",
+      "artist": "Poets of the Fall",
+      "has_synced": true,
+      "path": "select/13_Rumors_Poets_of_the_Fall.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rumors In The Air",
+      "artist": "Night Ranger",
+      "has_synced": false,
+      "path": "select/14_Rumors_In_The_Air_Night_Ranger.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blasphemous Rumors",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/15_Blasphemous_Rumors_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rumors of You",
+      "artist": "Aldo Nova",
+      "has_synced": true,
+      "path": "select/16_Rumors_of_You_Aldo_Nova.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rumors",
+      "artist": "Lindsay Lohan",
+      "has_synced": true,
+      "path": "select/17_Rumors_Lindsay_Lohan.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lies & Rumors",
+      "artist": "D12",
+      "has_synced": true,
+      "path": "select/18_Lies_&_Rumors_D12.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lies and Rumors",
+      "artist": "D 12",
+      "has_synced": true,
+      "path": "select/19_Lies_and_Rumors_D_12.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rumors",
+      "artist": "Jake Miller",
+      "has_synced": false,
+      "path": "select/pl_01_Rumors_Jake_Miller.txt"
+    }
+  ]
+}
